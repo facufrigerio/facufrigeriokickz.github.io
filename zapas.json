@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "autor": "Nike",
+        "año": 1949,
+        "titulo": "Adidas Blanca",
+        "precio": 900,
+        "imagen": "adidas.jpg"
+    },
+    {
+        "id": 2,
+        "autor": "Adidas",
+        "año": 1967,
+        "titulo": "Adidas Negra",
+        "precio": 4500,
+        "imagen": "adidasnegra.jpg"
+    },
+    {
+        "id": 3,
+        "autor": "Nike",
+        "año": 1994,
+        "titulo": "Nike Paris Low",
+        "precio": 2800,
+        "imagen": "nikeblanca.jpg"
+    },
+    {
+        "id": 4,
+        "autor": "Nike",
+        "año": 1944,
+        "titulo": "Nike Panda",
+        "precio": 1400,
+        "imagen": "panda.jpg"
+    },
+    {
+        "id": 5,
+        "autor": "Nike",
+        "año": 1996,
+        "titulo": "Nike Furyosa",
+        "precio": 2200,
+        "imagen": "zapas.jpg"
+    },
+    {
+        "id": 6,
+        "autor": "Nike",
+        "año": 1963,
+        "titulo": "Nike Furyosa Roja",
+        "precio": 2000,
+        "imagen": "zapasroja.jpg"
+    }
+]
