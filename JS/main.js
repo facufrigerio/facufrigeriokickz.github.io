@@ -74,7 +74,7 @@ function cargarZapas(array) {
     let inputTitulo = document.getElementById("tituloInput")
     let inputPrecio = document.getElementById("precioInput")
 
-    const nuevozapas = new zapas(array.length + 1, inputAutor.value, inputTitulo.value, parseInt(inputPrecio.value), "zapasNuevo.jpg")
+    const nuevozapas = new Zapas(array.length + 1, inputAutor.value, inputTitulo.value, parseInt(inputPrecio.value), "zapasNuevo.jpg")
     console.log(nuevozapas)
 
 
